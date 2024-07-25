@@ -10,5 +10,6 @@
     },
     "idf.gitPathWin": "C:\\Users\\User\\.espressif\\tools\\idf-git\\2.39.2\\cmd\\git.exe",
     "idf.portWin": "COM9",
-    "idf.flashType": "UART"
+    "idf.flashType": "UART",
+    "idf.adapterTargetName": "esp32"
 }
